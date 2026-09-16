@@ -51,13 +51,13 @@ I'm just getting started. 🚀
 🎬 Watching Anime  
 💡 Exploring new things
 
-## 💻 Tech Stack
+                                                                                ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python">
 </p>
 
-## 📊 GitHub Stats
+                                                                                ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashankFORTRAN&show_icons=true&theme=tokyonight">
